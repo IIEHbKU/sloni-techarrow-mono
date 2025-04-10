@@ -1,0 +1,9 @@
+.venv/
+
+infra/keycloak_/config
+logs/
+
+.gitignore
+
+docker-compose.yml
+Dockerfile
